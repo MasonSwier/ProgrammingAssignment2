@@ -31,7 +31,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## This fucntion will updated the set values and get values and store the
+## This function will update the 'set' values and 'get' values and store the
 ## inverted matrix after we calculate it for the first time.
 
 cacheSolve <- function(x, ...) {
